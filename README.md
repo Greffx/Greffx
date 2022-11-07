@@ -1,8 +1,8 @@
 <h1 align="left">Olá <img  height="40" width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Eduardo Greff</h1>
 
 <div align="center">
-  <a href="https://github.com/Greffx">
-  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&count_private=true&hide_border=true&title_color=faf2f2&icon_color=faf2f2&text_color=faf2f2&bg_color=171313"/>
+  <a href="h[ttps://github.com/Greffx](https://github.com/Greffx)">
+  <img  width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greffx&layout=compact&hide_border=true&title_color=faf2f2&text_color=faf2f2&bg_color=171313" />
 </div>
 <div style="display: inline_block"><br>
