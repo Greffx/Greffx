@@ -1,9 +1,9 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Eduardo Greff</h1>
+<h1 align="left">Olá <img  height="40" width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Eduardo Greff</h1>
 
 <div align="center">
   <a href="https://github.com/Greffx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&count_private=true&hide_border=true&title_color=faf2f2&icon_color=faf2f2&text_color=faf2f2&bg_color=171313"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greffx&layout=compact&langs_count=7&theme=dark"/>
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&count_private=true&hide_border=true&title_color=faf2f2&icon_color=faf2f2&text_color=faf2f2&bg_color=171313"/><br>
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greffx&layout=compact&hide_border=true&title_color=faf2f2&text_color=faf2f2&bg_color=171313" />
 </div>
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
