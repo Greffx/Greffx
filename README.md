@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img  height="40" width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Eduardo Greff</h1>
 
-<img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&theme=dark) />
-<img weight="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&theme=dark) 
+<img width="48%" height="=120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greffx&layout=compact&langs_count=7&theme=dark"/>
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
