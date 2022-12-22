@@ -1,5 +1,12 @@
 <h1 align="left">Olá <img  height="40" width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Eduardo Greff</h1>
 
+<div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Greffx&show_icons=true&count_private=true&hide_border=true&title_color=a81616&icon_color=bf2c2c&text_color=8a2424&bg_color=946868"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greffx&layout=compact&hide_border=true&title_color=a81616&text_color=8a2424&bg_color=946868" />
+</div>
+
+<br>
+
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
