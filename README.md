@@ -6,11 +6,10 @@
 </div>
 <br>
 <b>Tools & Technologies</b>
+<br><br>
 
- <br><br>
  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,idea,eclipse,git,html,css)](https://skillicons.dev)
   
-<br><br>
 
 <div> 
   <b>Contact</b>
