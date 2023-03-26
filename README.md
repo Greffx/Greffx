@@ -8,7 +8,7 @@
 <b>Tools & Technologies</b>
 <br><br>
 
- [![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,mysql,idea,eclipse,postman,git,html,css)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,mysql,mongodb,idea,eclipse,postman,git,html,css)](https://skillicons.dev)
   
 
 <div> 
